@@ -1,0 +1,7 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Logging": "/logs/safe_places",
+    "Image": {
+        "Update": "false"
+    }
+}
